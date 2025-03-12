@@ -13,7 +13,6 @@ Flask==3.1.0
 Flask-Cors==5.0.0
 google-api-core==2.24.1
 google-auth==2.38.0
-google-cloud-texttospeech==2.25.0
 googleapis-common-protos==1.68.0
 groq==0.15.0
 grpcio==1.70.0
